@@ -55,7 +55,7 @@ def get_mp3_data():
 		print('--------------------')
 		print()
 
-	# Save shit down 2 da script folda
+	# Save 2 da script folda
 	df = pd.DataFrame(SAMPLES_DATA, index=dtypes)
 	path = 'songs_data.csv'
 	df = df.T
