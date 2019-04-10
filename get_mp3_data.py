@@ -13,7 +13,7 @@ def get_mp3_data():
 	Terminal:
 	example -> 'python get_mp3_data.py music'
 	Run     -> 'python get_mp3_data.py ARG'
-	ARG     ->  YOUR_MP3_FOLDER.txt
+	ARG     ->  YOUR_MP3_FOLDER
 	'''
 
 	# Wat u look for
